@@ -1,0 +1,17 @@
+{
+  "id": "0x247BC428BDD4Fe2D3CcD8848BFc286d59Fd077E0",
+  "name": "GUILING",
+  "symbol": "GLB",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "GUILING is SmartDeFi DAO.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x247BC428BDD4Fe2D3CcD8848BFc286d59Fd077E0": true,
+  "social": {
+    "twitter": "https://twitter.com/GUILING_TOKEN?s=09",
+    "telegram": "https://t.me/guilingchat",
+  },
+  "stake": {
+    "address": "0x247BC428BDD4Fe2D3CcD8848BFc286d59Fd077E0"
+  }
+}
